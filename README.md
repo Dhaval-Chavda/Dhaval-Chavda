@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dhaval Chavda</h1>
 <h3 align="center">A passionate Angular developer at Hyderabad</h3>
-
+<img align="right" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhaval150&label=Profile%20views&color=0e75b6&style=flat" alt="dhaval150" /> </p>
 
 - 🔭 I’m currently learning on **Angular, Angular Material, JavaScript**
